@@ -259,7 +259,7 @@ enableEmoji = true
         post = ""
         name = "标签"
         url = "/tags/"
-        title = "11"
+        title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "categories"
