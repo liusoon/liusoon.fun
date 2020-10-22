@@ -1,0 +1,7 @@
+[build]
+  publish = "exampleSite/public"
+  command = "hugo --gc --minify && npm install atomic-algolia --save-dev && npm run algolia"
+  
+[build.environment]
+  HUGO_VERSION = "0.74.3"
+  HUGO_THEME = "repo"
