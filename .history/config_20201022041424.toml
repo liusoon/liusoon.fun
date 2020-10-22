@@ -675,7 +675,7 @@ enableEmoji = true
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ''
+    custom = '11'
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
@@ -855,7 +855,7 @@ enableEmoji = true
         enable = false
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = "liusoonfang"
+        shortname = ""
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
@@ -868,8 +868,8 @@ enableEmoji = true
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "pm1V4eubvg507OhqJm4trs5t-MdYXbMMI"
-        appKey = "rQxDvnz8sGYp7LTq15XXWk09"
+        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
+        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -878,8 +878,8 @@ enableEmoji = true
         visitor = true
         recordIP = true
         highlight = true
-        enableQQ = true
-        serverURLs = "https://pm1v4eub.api.lncldglobal.com"
+        enableQQ = false
+        serverURLs = "https://leancloud.hugoloveit.com"
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
@@ -946,7 +946,7 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "LIUSOON"
+        name = "xxxx"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
@@ -987,10 +987,10 @@ enableEmoji = true
   # Analytics config
   # 网站分析配置
   [params.analytics]
-    enable = true
+    enable = false
     # Google Analytics
     [params.analytics.google]
-      id = "AIzaSyBLfZ02cQCp_o5VM-2Q5bGAdDmY5d889mY"
+      id = ""
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
@@ -1074,8 +1074,8 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "LIUSOON"
-  email = "liu362604795@gmail.com"
+  name = "xxxx"
+  email = ""
   link = ""
 
 # Sitemap config
